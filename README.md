@@ -13,5 +13,6 @@ This cheatsheet is built for the Bug Bounty Hunters and Penetration Testers such
 4. [Frida](https://www.hackingarticles.in/android-penetration-testing-frida/)
 5. [Drozer](https://www.hackingarticles.in/android-penetration-testing-drozer/)
 6. [Android Hooking and SSLPinning using Objection Framework](https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/)
-7. [Android Application Framework: Beginner’s Guide](https://www.hackingarticles.in/android-application-framework-beginners-guide/)
+7. [Android Pentest Lab Setup & ADB Command Cheatsheet](https://www.hackingarticles.in/android-pentest-lab-setup-adb-command-cheatsheet/)
+8. [Android Application Framework: Beginner’s Guide](https://www.hackingarticles.in/android-application-framework-beginners-guide/)
 
