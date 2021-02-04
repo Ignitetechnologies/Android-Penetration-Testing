@@ -7,9 +7,9 @@ This cheatsheet is built for the Bug Bounty Hunters and Penetration Testers such
 # Follow us on [![alt text][1.1]][1]
 
 
-1. [Burp Suite for Pentester: Web Scanner & Crawler](https://www.hackingarticles.in/burp-suite-for-pentester-web-scanner-crawler/)
-2. [Burp Suite for Pentester – Fuzzing with Intruder (Part3)](https://www.hackingarticles.in/burp-suite-for-pentester-fuzzing-with-intruder-part-3/)
-3. [Burp Suite for Pentester – Fuzzing with Intruder (Part2)](https://www.hackingarticles.in/burpsuite-for-pentester-fuzzing-with-intruder-part-2/)
-4. [Burp Suite for Pentester – Fuzzing with Intruder (Part1)](https://www.hackingarticles.in/burp-suite-for-pentester-fuzzing-with-intruder-part-1//)
-5. [Burp Suite for Pentester – XSS Validator](https://www.hackingarticles.in/burp-suite-for-pentester-xss-validator/)
-6. [Burp Suite for Pentester – Configuring Proxy](https://www.hackingarticles.in/burp-suite-for-pentester-configuring-proxy/)
+1. [Android Penetration Testing: Apk Reverse Engineering](https://www.hackingarticles.in/android-penetration-testing-apk-reverse-engineering/)
+2. [Android Pentest: Deep Link Exploitation](https://www.hackingarticles.in/android-pentest-deep-link-exploitation/)
+3. [Android Penetration Testing: WebView Attacks](https://www.hackingarticles.in/android-penetration-testing-webview-attacks/)
+4. [Android Penetration Testing: Frida](https://www.hackingarticles.in/android-penetration-testing-frida/)
+5. [Android Penetration Testing: Drozer](https://www.hackingarticles.in/android-penetration-testing-drozer/)
+6. [Android Hooking and SSLPinning using Objection Framework](https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/)
