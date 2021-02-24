@@ -17,4 +17,3 @@ This cheatsheet is built for the Bug Bounty Hunters and Penetration Testers such
 8. [Android Application Framework: Beginner’s Guide](https://www.hackingarticles.in/android-application-framework-beginners-guide/)
 9. [Apk Reverse Engineering (Part 2)](https://www.hackingarticles.in/android-penetration-testing-apk-reversing-part-2/)
 10.[Automated Analysis using MobSF)](https://www.hackingarticles.in/android-pentest-automated-analysis-using-mobsf/)
-
