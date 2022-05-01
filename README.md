@@ -1,10 +1,14 @@
 # Android Penetration Testing
 
-This cheatsheet is built for the Bug Bounty Hunters and Penetration Testers such in order to help them to hunt the vulnerabilties on Android Applications and Devices. It is designed such that the beginners can understand the fundamentals and the professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, thereby we've performed and compiled this list over with our experience. Please share it with your connections and send your queries and feedbacks directly to [Harshit Rajpal](https://www.linkedin.com/in/harshit-rajpal-79bb43103/).
+This cheatsheet is built for the Bug Bounty Hunters and Penetration Testers such in order to help them to hunt the vulnerabilties on Android Applications and Devices. It is designed such that the beginners can understand the fundamentals and the professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, thereby we've performed and compiled this list over with our experience. Please share it with your connections and send your queries and feedbacks directly to [Hacking Articles](https://twitter.com/hackinarticles).
 
-[1.1]: http://i.imgur.com/tXSoThF.png
+[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
+[1.6]: https://www.linkedin.com/company/hackingarticles/
+[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
+[1.4]: https://discord.com/invite/kyKvXwK4Bk
+[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
 [1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1]
+# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
 
 1. [Apk Reverse Engineering](https://www.hackingarticles.in/android-penetration-testing-apk-reverse-engineering/)
