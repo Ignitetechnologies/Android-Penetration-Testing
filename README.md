@@ -1,23 +1,32 @@
-# Android Penetration Testing
+📱 Android Penetration Testing
 
-This cheatsheet is built for Bug Bounty Hunters and Penetration Testers in order to help them hunt the vulnerabilities in Android applications and devices. It is designed such that beginners can understand the fundamentals and professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, so we've performed and compiled this list with our experience. Please share it with your connections and send your queries and feedback directly to [Hacking Articles](https://twitter.com/hackinarticles).
+A practical Android Penetration Testing guide and cheat sheet designed for penetration testers, mobile security researchers, and cybersecurity learners to understand how to identify and exploit vulnerabilities in Android applications.
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+## 🌐 Connect With Us
+
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
+
+## 🎓 Training Program
+
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 
-1. [Apk Reverse Engineering](https://www.hackingarticles.in/android-penetration-testing-apk-reverse-engineering/)
-2. [Deep Link Exploitation](https://www.hackingarticles.in/android-pentest-deep-link-exploitation/)
-3. [WebView Attacks](https://www.hackingarticles.in/android-penetration-testing-webview-attacks/)
-4. [Frida](https://www.hackingarticles.in/android-penetration-testing-frida/)
-5. [Drozer](https://www.hackingarticles.in/android-penetration-testing-drozer/)
-6. [Android Hooking and SSLPinning using Objection Framework](https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/)
-7. [Android Pentest Lab Setup & ADB Command Cheatsheet](https://www.hackingarticles.in/android-pentest-lab-setup-adb-command-cheatsheet/)
-8. [Android Application Framework: Beginner’s Guide](https://www.hackingarticles.in/android-application-framework-beginners-guide/)
-9. [Apk Reverse Engineering (Part 2)](https://www.hackingarticles.in/android-penetration-testing-apk-reversing-part-2/)
-10. [Automated Analysis using MobSF](https://www.hackingarticles.in/android-pentest-automated-analysis-using-mobsf/)
+## 🤖 Android Penetration Testing
+
+| # | Topic | Description | Article |
+|---|---|---|---|
+| 1 | 📦 APK Reverse Engineering | Analyze and reverse engineer Android APK files to understand application logic | [Read Article](https://www.hackingarticles.in/android-penetration-testing-apk-reverse-engineering/) |
+| 2 | 🔗 Deep Link Exploitation | Exploit Android deep links to access unauthorized application components | [Read Article](https://www.hackingarticles.in/android-pentest-deep-link-exploitation/) |
+| 3 | 🌐 WebView Attacks | Exploit insecure WebView implementations in Android apps | [Read Article](https://www.hackingarticles.in/android-penetration-testing-webview-attacks/) |
+| 4 | 🧠 Frida | Perform dynamic analysis and runtime manipulation of Android apps | [Read Article](https://www.hackingarticles.in/android-penetration-testing-frida/) |
+| 5 | 🐞 Drozer | Discover vulnerabilities in Android applications using Drozer framework | [Read Article](https://www.hackingarticles.in/android-penetration-testing-drozer/) |
+| 6 | 🪝 Objection Framework | Bypass SSL Pinning and perform hooking with Objection | [Read Article](https://www.hackingarticles.in/android-hooking-and-sslpinning-using-objection-framework/) |
+| 7 | 🔧 Android Pentest Lab Setup | Setup Android testing environment and learn essential ADB commands | [Read Article](https://www.hackingarticles.in/android-pentest-lab-setup-adb-command-cheatsheet/) |
+| 8 | 📚 Android Application Framework | Learn Android architecture and application framework basics | [Read Article](https://www.hackingarticles.in/android-application-framework-beginners-guide/) |
+| 9 | 📦 APK Reverse Engineering (Part 2) | Advanced Android APK reverse engineering techniques | [Read Article](https://www.hackingarticles.in/android-penetration-testing-apk-reversing-part-2/) |
+|10 | 🤖 MobSF Automated Analysis | Perform automated security analysis of Android applications using MobSF | [Read Article](https://www.hackingarticles.in/android-pentest-automated-analysis-using-mobsf/) |
